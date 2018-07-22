@@ -1,0 +1,56 @@
+.contenedor-input{
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+.input{
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contenedor-logo{
+  width: 5%;
+  margin: 5px
+}
+
+.logo{
+  height: auto;
+  width: 100%;
+}
+
+form{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  text-align: center
+}
+
+.texto-busqueda{
+  height: 30px;
+  width: 70%;
+  border-radius: 5px;
+  border: 1px solid white;
+  margin: 5px;
+  padding: 6px 30px;
+  font-size: 20px;
+}
+
+.contenedor-buscar{
+  background-color: aquamarine;
+  border-color: aquamarine;
+  border: 0px
+}
+
+.buscar{
+  height: auto;
+  width: 40px;
+  border-radius: 50px;
+}
+
+
